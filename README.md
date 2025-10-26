@@ -68,16 +68,16 @@ Mở Visual Studio Installer và chắc chắn rằng các thành phần sau đ�
 **Cách 1: Dùng `git clone`**
 
 ```bash
-git clone https://github.com/Thay link
+git clone https://github.com/QuanBiXeChoi/Exercise3-Nhom8
 ```
 
-Sau đó, vào thư mục vừa tải về và mở file `Thay tên.sln`.
+Sau đó, vào thư mục vừa tải về và mở file `Exercise3.sln`.
 
 **Cách 2: Tải file .zip**
 
   * Tải file zip từ repository.
   * Giải nén file.
-  * Vào thư mục vừa giải nén và mở file `Thay tên.sln`.
+  * Vào thư mục vừa giải nén và mở file `Exercise3.sln`.
 
 #### 4\. Tạo Server và Database
 
@@ -98,7 +98,7 @@ Sau đó, vào thư mục vừa tải về và mở file `Thay tên.sln`.
 
 1.  Đảm bảo Database đã được tạo và đang chạy.
 2.  Cấu hình Server (đảm bảo đúng tên đăng nhập và mật khẩu, địa chỉ Database).
-3.  Chạy file `server.exe`. (Thay tên file)
+3.  Chạy file `Server.exe`. 
 4.  Lấy địa chỉ IP của máy Server để Client có thể kết nối.
 
 **TCP Client:**
